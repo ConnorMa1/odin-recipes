@@ -1,0 +1,72 @@
+*{
+box-sizing: border-box;
+}
+
+.intro{
+     text-align: center;
+   font-family: 'sans-serif';
+    
+}
+
+.yummy-photo{
+    margin: auto;
+    display: block;
+    width: 700px;
+    border: 4px solid black;
+    margin-bottom: 12px;
+}
+.description{
+    display: block;
+    border: 2px solid black;
+    background-color: blanchedalmond;
+    margin:auto;
+    width: 700px;
+    text-align: center;
+
+}
+.ingrediants{
+    border: 2px solid black;
+    margin-right: 525px;
+    margin-top: 15px;
+    margin-left: 39px;
+    position: relative;
+
+}   
+.aioli{
+    text-align: center;
+    font-size: 17px;
+    margin: 5px;
+    background-color: lightblue;
+}
+.steps{
+    text-align: center;
+    font-size: 17px;
+    margin: 5px;
+    background-color: lightblue;
+    width: 100px;
+    margin:auto;
+    margin-bottom: -12px;
+}
+
+.instructions{
+
+    border: 2px solid black;
+    background-color: rgba(189, 227, 255, 0.946);
+    margin: auto;
+    width: 700px;
+    height: 400px;
+    font-size: large;
+    line-height: 2;
+   
+}
+
+.potato{
+    display: block;
+    width: 438px;
+    border: 2px solid black;
+    height: auto;
+    margin-left: 260px;
+    position: absolute;
+    top: 0;
+    left: 0;
+}
