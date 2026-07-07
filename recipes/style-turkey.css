@@ -1,0 +1,28 @@
+*{
+    font-family: sans-serif;
+}
+.header{
+    text-align: center;
+    margin-bottom: -5px;
+}
+.turkey{
+    border: 2px solid black;
+    margin-left: 356px;
+    position: relative;
+    top: 56px;
+    
+}
+.intro{
+    margin-right: 370px;
+    width: 320px;
+    margin-top: -575px;
+}
+.ingrediants{
+    width: 320px;
+    border: 2px solid black;
+    margin-top: -5px;
+}
+.steps{
+    background-color: blanchedalmond;
+    line-height: 1.5;
+}
